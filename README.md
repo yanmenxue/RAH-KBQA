@@ -5,7 +5,7 @@ This is the code for the EMNLP 2023 Findings paper: [Relation-Aware Question Ans
 ## Overview 
 Our methods improves instruction decoding and execution for KGQA via adaptive reasoning, as shown:
 
-![](./pipeline.pdf)
+![](./pipeline.png)
 
 
 ## Get Started
